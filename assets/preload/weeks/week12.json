@@ -1,0 +1,32 @@
+{
+	"storyName": "Realistic Skating",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "so",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"realistic-skating",
+			"batr",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Realistic Skating",
+	"hiddenUntilUnlocked": false
+}

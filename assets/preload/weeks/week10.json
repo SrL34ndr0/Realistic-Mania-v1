@@ -1,0 +1,32 @@
+{
+	"storyName": "Reddish",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "reddish",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"reddish",
+			"rojo",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Reddish",
+	"hiddenUntilUnlocked": false
+}
